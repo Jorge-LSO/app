@@ -1,4 +1,10 @@
-{
-  "anunciante": "google",
-  "ads": "https://url-da-imagem.com/imagem.jpg"
-}
+[
+  {
+    "anunciante": "google",
+    "ads": "https://url-da-imagem.com/google.jpg"
+  },
+  {
+    "anunciante": "facebook",
+    "ads": "https://url-da-imagem.com/face.jpg"
+  }
+]
