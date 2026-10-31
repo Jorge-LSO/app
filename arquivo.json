@@ -8,11 +8,11 @@
 	"servico":"mercado",
 },
 {
-	"foto":"",
+	"foto":"https://novafriburgoemfoco.com.br/wp-content/uploads/2022/11/loja2.jpg.webp",
 	"titulo":"Supermercado Serra Azul",
 	"endereco":"Av. Euterpe Friburguense, 16/20",
-	"mapa":"",
-	"site":"",
+	"mapa":"https://www.google.com/maps/place/Supermercado+Serra+Azul+-+Centro/@-22.2773085,-42.5336773,21z/data=!3m1!5s0x978a9506cfe595:0x7532b12401166113!4m6!3m5!1s0x978b55c018c70d:0xfb4c673b2dae785e!8m2!3d-22.2772948!4d-42.5335685!16s%2Fg%2F11tmkywkz6?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D",
+	"site":"https://friburgoapp.blogspot.com/2026/10/local-sem-site.html?m=1",
 	"bairro":"centro",
 	"servico":"mercado",
 }
