@@ -1,23 +1,12 @@
 [{
-	"foto":"https://d3h1nu1oevgs78.cloudfront.net/posts/nova-friburgo-recebe-nova-unidade-da-rede-supermarket-915311.jpeg",
-	"nome":"Supermaket",
-	"endereco":"Av. Alberto Braune, 170",
-	"mapa":"https://www.google.com/maps/place/Supermarket/@-22.286643,-42.5320837,19.22z/data=!3m1!5s0x978a8d38e0a723:0x6bc135560a1e5cc3!4m6!3m5!1s0x978a8d4913c0c5:0x4fb31ca267436271!8m2!3d-22.2865819!4d-42.5321887!16s%2Fg%2F1ptxm3hfj?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D",
-	"site":"https://redesupermarket.com.br/lojas/supermarket-nova-friburgo1/",
-	"bairro":"centro",
-	"servico":"Mercado",
-	"telefone":"(22)998115-2346",
-	"hora":"seg a sab: 07:00-22:00. Dom: 07:00-18:00"
-},
-{
-	"foto":"https://novafriburgoemfoco.com.br/wp-content/uploads/2022/11/loja2.jpg.webp",
-	"nome":"Supermercado Serra Azul",
-	"endereco":"Av. Euterpe Friburguense, 16/20",
-	"mapa":"https://www.google.com/maps/place/Supermercado+Serra+Azul+-+Centro/@-22.2773085,-42.5336773,21z/data=!3m1!5s0x978a9506cfe595:0x7532b12401166113!4m6!3m5!1s0x978b55c018c70d:0xfb4c673b2dae785e!8m2!3d-22.2772948!4d-42.5335685!16s%2Fg%2F11tmkywkz6?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D",
-	"site":"https://friburgoapp.blogspot.com/2026/10/local-sem-site.html?m=1",
-	"bairro":"centro",
-	"servico":"Mercado",
-	"telefone":"(22)998115-2346",
-	"hora":"seg a sab: 07:00-22:00. Dom: 07:00-18:00"
+	"foto":"https://private-user-images.githubusercontent.com/121429043/694129688-d3fcde3b-fb4d-459a-a01e-4d3532d8c042.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQxMzc5NTcsIm5iZiI6MTc5NDEzNzY1NywicGF0aCI6Ii8xMjE0MjkwNDMvNjk0MTI5Njg4LWQzZmNkZTNiLWZiNGQtNDU5YS1hMDFlLTRkMzUzMmQ4YzA0Mi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEwOFQxMTM0MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yM2U5Njk3YzQ4M2Y5MzcyY2JkNWJjODc0MjI0YjZkZWNjOTE3Njk1M2RjZGE2NWRiMDhlZjYwZTBiZTdkMzAyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.Ncod9rzQbKvd225UtcaX_geRWma1XWNHfyoXbxlvvDw",
+	"nome":"Dra. Julianna M. de Jesus Lennertz",
+	"endereco":"Rua Ernesto Brasílio, 64 sala 201",
+	"mapa":"https://www.google.com/maps/place/R.+Dr.+Ernesto+Brasilio,+64+-+Centro,+Nova+Friburgo+-+RJ,+28610-120/@-22.2813899,-42.5365366,17z/data=!3m1!4b1!4m6!3m5!1s0x978a93a12cb29b:0x6655c130eee748fd!8m2!3d-22.2813949!4d-42.5339617!16s%2Fg%2F11c43xx1k1?entry=ttu&g_ep=EgoyMDI2MTEwMy4wIKXMDSoASAFQAw%3D%3D",
+	"site":"https://www.instagram.com/drajuliannaedrwalter/",
+	"bairro":"Centro",
+	"servico":"Dentista",
+	"telefone":"(22)98809-0060",
+	"hora":""
 }
 ]
